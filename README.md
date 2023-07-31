@@ -1,6 +1,6 @@
 # 🚀 Sagar Patel - Resume Website Test
 
-![Sagar Patel](https://example.com/images/profile.jpg)
+## https://sagarpatei.github.io/ResumeTest/
 
 Welcome to my 🌟 awesome 🌟 GitHub repository! 😎 This is where I've put together my super cool resume website 🌐 that I worked on for my Programming Language class project. 🎓
 
@@ -23,7 +23,7 @@ As a computer science major at Georgia State University, I was 🔥 fired up �
 
 ## How to Use
 
-👉 To view the website, simply visit [Sagar Patel - Resume Website](https://example.com). Easy peasy! 😉
+👉 To view the website, simply visit [Sagar Patel - Resume Website](https://sagarpatei.github.io/ResumeTest/). Easy peasy! 😉
 
 You can explore the different sections using the menu 🍔 and have fun clicking around the buttons and links to learn more about my projects. Have a blast! 🚀💥
 
