@@ -1,7 +1,5 @@
 # 🚀 Sagar Patel - Resume Website Test
 
-![Sagar Patel](https://example.com/images/profile.jpg)
-
 Welcome to my 🌟 awesome 🌟 GitHub repository! 😎 This is where I've put together my super cool resume website 🌐 that I worked on for my Programming Language class project. 🎓
 
 ## Introduction
